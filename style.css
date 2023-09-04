@@ -1,0 +1,21 @@
+body {
+   background-color:darkgoldenrod; 
+}
+
+#clear {
+    border-radius:100px;
+}
+
+canvas {
+    width :400px;
+    height:400px;
+    background-color: aliceblue;
+    border-radius:30px;
+    box-shadow: 5px 5px 30px  black;
+    
+}
+
+#show-sketch {
+float:right;
+
+}
